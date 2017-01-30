@@ -5,4 +5,4 @@ var gulp = require('gulp'),
 	buffer = require('vinyl-buffer'),
 	del = require('del'),
 	concat = require('gulp-concat'),
-	uglify = require('gulp-uglify');
+	uglify = require('gulp-uglify') ;
