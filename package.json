@@ -2,7 +2,7 @@
   "name": "ricardo-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ricardoferreirades@github.io",
+  "homepage": "https://rferreira.dev",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
