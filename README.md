@@ -1,1 +1,3 @@
-# This is my personal website
+# Personal website
+
+My connection place to the world, where I share my projects.
