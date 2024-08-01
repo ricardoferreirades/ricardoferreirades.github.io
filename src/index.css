@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --dark-gray: #161616;
+    --dark-gray-2: #1A1A1A;
+    --dark-gray-3: #2E2E2E;
+    --dark-gray-4: #333333;
+    --dark-gray-5: #666666;
+    --medium-gray: #666666;
+    --medium-gray-2: #9E9E9E;
+    --light-gray: #CCCCCC;
+    --light-gray-2: #
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: var(--dark-gray);
+    color: var(--dark-gray-5);
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+}
