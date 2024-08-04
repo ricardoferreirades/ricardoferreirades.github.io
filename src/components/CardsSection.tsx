@@ -28,7 +28,7 @@ import Card, { CardProps } from "./Card"
         description: 'Playing an encouraging role to maintain a good culture overall.'
       }
     ]
-    return <section className="flex justify-center items-center gap-8 max-w-[733px] mx-auto mb-10">
+    return <section className="flex flex-col md:flex-row justify-center items-center gap-8 max-w-[733px] lg:mx-auto mb-10 mx-5 md:mx-10">
       {
         cardDataList.map(({title, icon, description}) => {
           return <Card key={icon.src} title={title} icon={icon} description={description} />
