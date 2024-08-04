@@ -3,7 +3,7 @@ import Header from "./components/Header";
 import TopBar from "./components/TopBar"; 
 
 function App() {
-  return <main className="container mx-auto">
+  return <main className="container mx-auto relative">
     <TopBar />
     <Header />
     <CardsSection />
