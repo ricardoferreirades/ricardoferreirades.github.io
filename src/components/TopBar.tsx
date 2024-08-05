@@ -4,7 +4,8 @@ export default function TopBar() {
       <menu className="flex justify-between gap-20 md:gap-6">
         <a href="#" className="hover:text-light-gray">Projects</a>
         <a href="https://docs.google.com/document/d/1xC9EIEc4SiMVMkZIlG9Dq33Oen12Q2jI1pkZ9YXS5sQ/edit?usp=sharing" target="_blank" title="Curriculum Vitae"  className="hover:text-light-gray">CV</a>
-        <a href="https://github.com/ricardoferreirades" className="hover:text-light-gray" target="_blank">Github</a>
+        <a href="https://www.linkedin.com/in/ricardoferreirades/" className="hover:text-light-gray" target="_blank">Linkedin</a>
+        <a href="https://github.com/ricardoferreirades/" className="hover:text-light-gray" target="_blank">Github</a>
       </menu>
     </section>
   }
